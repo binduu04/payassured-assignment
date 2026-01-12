@@ -1,0 +1,9 @@
+# Flask Core
+Flask
+Flask-Cors
+
+# Database
+psycopg2-binary
+
+# Environment Variables
+python-dotenv
