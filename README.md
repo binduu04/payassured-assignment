@@ -91,8 +91,7 @@ The database includes two main tables: `clients` and `cases` with a one-to-many 
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repo-url>
-cd PayAssured-Assignment/assignment-implementation
+git clone https://github.com/binduu04/payassured-assignment
 ```
 
 ### 2. Database Setup (Using Supabase)
