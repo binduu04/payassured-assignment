@@ -190,38 +190,38 @@ The frontend will start on `http://localhost:5173`
 
 ### Client Management
 
-- ✅ Add new clients with complete information
-- ✅ View all clients in a clean, professional table
-- ✅ Icons for better visual hierarchy
-- ✅ Form validation with helpful error messages
+- Add new clients with complete information
+- View all clients in a clean, professional table
+- Icons for better visual hierarchy
+- Form validation with helpful error messages
 
 ### Case Management
 
-- ✅ Create cases linked to existing clients
-- ✅ View all cases with client information
-- ✅ Filter cases by status (New, In Follow-up, Partially Paid, Closed)
-- ✅ Sort cases by due date (ascending/descending)
-- ✅ Detailed case view with all information
-- ✅ Update case status and follow-up notes
-- ✅ Color-coded status badges for quick identification
+- Create cases linked to existing clients
+- View all cases with client information
+- Filter cases by status (New, In Follow-up, Partially Paid, Closed)
+- Sort cases by due date (ascending/descending)
+- Detailed case view with all information
+- Update case status and follow-up notes
+- Color-coded status badges for quick identification
 
 ### UI/UX
 
-- ✅ Professional, minimalistic design using lucide-react icons
-- ✅ Responsive layout that works on all screen sizes
-- ✅ Sticky navigation bar for easy access
-- ✅ Loading states and error handling
-- ✅ Smooth transitions and hover effects
-- ✅ Clean form designs with icon-enhanced inputs
+- Professional, minimalistic design using lucide-react icons
+- Responsive layout that works on all screen sizes
+- Sticky navigation bar for easy access
+- Loading states and error handling
+- Smooth transitions and hover effects
+- Clean form designs with icon-enhanced inputs
 
 ### Backend Architecture
 
-- ✅ Organized routes using Flask Blueprints
-- ✅ Separated client and case routes into different modules
-- ✅ Raw SQL queries using psycopg2 for database operations
-- ✅ Input validation on all endpoints
-- ✅ Proper error handling with appropriate HTTP status codes
-- ✅ CORS enabled for frontend communication
+- Organized routes using Flask Blueprints
+- Separated client and case routes into different modules
+- Raw SQL queries using psycopg2 for database operations
+- Input validation on all endpoints
+- Proper error handling with appropriate HTTP status codes
+- CORS enabled for frontend communication
 
 ## 🔧 Environment Variables
 
